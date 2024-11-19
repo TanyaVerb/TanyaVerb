@@ -4,7 +4,7 @@
 
 I am front-end Developer <img src="https://github.com/sindresorhus/sindresorhus/blob/main/cat-typing.gif" width="30"> from Belarus.
 
-Languages and Tools
+### Languages and Tools
 
 <div>
    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -17,4 +17,7 @@ Languages and Tools
    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" **alt="TypeScript" width="40" height="40" />
 </div>
 
-Follow Me
+### Social Media
+
+[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://instagram.com/verbitskaiatanya)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/TanyaViar)
