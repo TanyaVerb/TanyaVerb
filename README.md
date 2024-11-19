@@ -1,4 +1,4 @@
-![Header](https://github.com/TanyaVerb/tanyaverb/blob/main/assets/Header.png)
+![Header](https://github.com/TanyaVerb/tanyaverb/blob/main/assets/Header-img.png)
 
 About me
 
