@@ -1,8 +1,8 @@
-![Header](https://github.com/TanyaVerb/tanyaverb/blob/main/assets/Header-img.png)
+![Header](https://github.com/TanyaVerb/tanyaverb/blob/main/assets/Blue%20And%20Black%20Gradient%20%20Header.png)
 
 ### :woman_technologist: About Me :
 
-I am front-end Developer <img src="https://github.com/sindresorhus/sindresorhus/blob/main/cat-typing.gif" width="30"> from Belarus.
+I am front-end Developer <img src="https://github.com/sindresorhus/sindresorhus/blob/main/cat-typing.gif" alt="cat" width="30"> from Belarus.
 
 ### Languages and Tools
 
