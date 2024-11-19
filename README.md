@@ -21,3 +21,9 @@ I am front-end Developer <img src="https://github.com/sindresorhus/sindresorhus/
 
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://instagram.com/verbitskaiatanya)
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/TanyaViar)
+
+### :fire: My Stats :
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TanyaVerb&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TanyaVerb&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
